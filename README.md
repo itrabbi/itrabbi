@@ -11,12 +11,12 @@
 
 - 🌱 I’m currently learning **Node Js**
 
-- 👨‍💻 All of my projects are available at <a href="https://www.itrabbi.xyz" target="blank">itrabbi.xyz</a>
+- 👨‍💻 All of my projects are available at <a href="https://www.itrabbi.com" target="blank">itrabbi.com</a>
 
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **hello@itrabbi.xyz**
+- 📫 How to reach me **hello@itrabbi.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
