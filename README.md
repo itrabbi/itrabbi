@@ -1,7 +1,3 @@
-Let's build something awesome..!
-
-Contact me: hello@itrabbi.com
-
 <h1 align="center">Hi  &nbsp;<a href="http://itrabbi.com/"><img src="https://raw.githubusercontent.com/itrabbi/itrabbi/master/Hi.gif" width="48"></a>, I'm Rabbi Hassan 😎</h1>
 
 
@@ -27,5 +23,9 @@ About Me = [
 ```
 <br><a href="https://itrabbi.com/"><p align="center">&nbsp;<img align="center" href="https://github.com/itrabbi" src="https://github-readme-stats.vercel.app/api?username=itrabbi&theme=algolia&show_icons=true" alt="itrabbi"/></p></a>
 
+
+Let's build something awesome..!
+
+Contact me: hello@itrabbi.com
 
 
