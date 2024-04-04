@@ -8,7 +8,7 @@
 <p align="center"><a href="https://itrabbi.com/"><img src="https://sdk.bitmoji.com/render/panel/7ff431c5-0042-4ded-81e5-a5514a9e677a-73722fee-603d-4ad6-a574-ee66da7461b3-v1.png?transparent=1&palette=1" alt="Hello" width="170" height="170"/></a></p><br>
 
 
-<h4 align="center">🏴‍☠️ Meet Me on Telegram : <a href="https://itrabbiX.t.me">itrabbiX.t.me</a></h4>
+<h4 align="center">🏴‍☠️ Meet Me on Telegram : <a href="https://rabbigo.t.me">rabbigo.t.me</a></h4>
 
 <br>
 
