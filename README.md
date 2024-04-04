@@ -21,11 +21,14 @@ About Me = [
     "I Work for Mine"
 ]
 ```
+
+```py
+Contact Me = [
+    "Let's build something awesome..!",
+    "Contact me: hello@itrabbi.com"
+]
+```
+
 <br><a href="https://itrabbi.com/"><p align="center">&nbsp;<img align="center" href="https://github.com/itrabbi" src="https://github-readme-stats.vercel.app/api?username=itrabbi&theme=algolia&show_icons=true" alt="itrabbi"/></p></a>
-
-
-Let's build something awesome..!
-
-Contact me: hello@itrabbi.com
 
 
