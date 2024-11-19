@@ -25,7 +25,7 @@ About Me = [
 ```py
 Contact Me = [
     "Let's build something awesome..!",
-    "Contact me: hello@itrabbi.com"
+    "Contact me: rabbisudo@gmail.com"
 ]
 ```
 
